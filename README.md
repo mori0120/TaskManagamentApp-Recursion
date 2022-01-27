@@ -1,24 +1,14 @@
-# task-managament-app
+# Task Management App
+## What is this?
+This is an task management app (ToDoList App).
+I made this as a Vue.js practice assignment for a programming learning site (Recursion: https://recursionist.io/).
 
-## Project setup
-```
-npm install
-```
+## URL
+You can use this app here(https://mori0120.github.io/TaskManagamentApp-Recursion/).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to use?
+The site consists of TaskSection and TaskCard. You can add, remove, and rename them as you want. TaskCard belongs with one section that you can change it by selection bar in TaskCard.
+Each TaskCard has some features (favorite button, finished button).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## What is used?
+・Vue 2.0
