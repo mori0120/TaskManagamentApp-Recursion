@@ -1,6 +1,6 @@
 # Task Management App
 ## What is this?
-This is an task management app (ToDoList App).
+This is a task management app (ToDoList App).
 I made this as a Vue.js practice assignment for a programming learning site (Recursion: https://recursionist.io/).
 
 ## URL
